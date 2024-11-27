@@ -4,26 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  When I was en elementary student, I was very talktive even at classes. And teacher called students like me "Huabaozi" which means Baozi of Words. 
+  We know Baozi is a traditional food in Chinese speaking regions, it has thin flour skin and contains meat or vegetables inside. Thus Huabaozi means
+  people who are full of words. I guess my talktive behaviors were only the exterior and inside I just loved the freedom and in my sub-concious, I felt
+  my freedom was limited. I guess after so many years, from communist occupied areas to united States of America, I just haven't changed. 
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This blog is mainly used to record my studies, as program-think recommended in his post:
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* [program-think](https://program-think.blogspot.com/2020/12/Study-and-Life.html)
 
 Thanks for reading!
