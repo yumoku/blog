@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review:Python Distilled
+title: Book review on Python Distilled
 ---
 
 <div class="message">
