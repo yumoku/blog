@@ -50,3 +50,13 @@ import math
 items['mod'] = math
 
 {% endhighlight %}
+
+Another thing I like this book is that in the last chapter Chapter 10, it provides all the Python Build-in Functions, all built-in Exceptions and all Python Standard Libraries so far. This can be used as dictionary or reference and gives the readers who are new to Python a general picture of all the tools we can use. After getting more familiar with those fundamental tools, new Python users will easier to move to the other tools as well.
+
+### Some errors
+This is a great book, but I also found some errors from it. 
+
+In page 250, Section 9.3, the author gave the following example:
+> format(x, '<*10.2f>')    # '123.46****'
+The correct form should be:
+format(x, '*<10.2f>')
