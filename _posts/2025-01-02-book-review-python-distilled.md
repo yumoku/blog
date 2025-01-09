@@ -60,4 +60,5 @@ In page 250, Section 9.3, the author gave the following example:
 > format(x, '<*10.2f>')    # '123.46****'
 
 The correct form should be:
-format(x, '*<10.2f>')
+> format(x, '*<10.2f>')
+
