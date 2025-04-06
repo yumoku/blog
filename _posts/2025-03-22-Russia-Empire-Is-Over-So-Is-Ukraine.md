@@ -5,6 +5,7 @@ title: Russia Empire Is Over So is Ukraine
 
 There's a famous novel in Chinese speaking areas called Three Kingdoms, this book was about stories at end of Han Empire. Even romantic Japanese made it into many games, but the real story is far more miserable. In year 156 AD before this era started, there were over 50 million registered populations, in year 265 AD, this number is around 7.5 million. Poets in that era used their poems to describe the miserable situations:
 
+{% highlight js %}
 「馬前懸人頭，車後載婦女」
 
 "Heads hang before the horses, women are carried behind the carts."
@@ -12,6 +13,8 @@ There's a famous novel in Chinese speaking areas called Three Kingdoms, this boo
 「白骨露於野，千里無雞鳴，生民百餘一，念之斷人腸」
 
 "White bones are exposed in the wilderness, for a thousand miles no rooster crows, of the living people only one in a hundred remains, thinking of it breaks the heart."
+{% endhighlight %}
+
 
 In the end of the Han Empire, the power began to transfer from the emperor and empire central government to warlords. The royalists nobles could use some Machiavelli conspiracies to cause the conflicts between different warlords such as Dong Zhuo and Lv Bu, but they couldn't recover the power and credibility back to the emperor and government. There were some loyalist warlords in the beginning, who didn't plan to become emperor themselves. But as time went by, they bagan to develop conflicts between themselves and began to fight with each other intead of fighting with anti-emperor rebels or warlords. And their united front collapsed and poweful warlords such as Cao Cao, Yuan Shao, Sun Quan, Bei Liu, etc began to take the power. And there were numous battles between them. And most of the population losses actually didn't happen in the battles directly but died from the interruption of food production and trade routes and bandits and hunger.
 
